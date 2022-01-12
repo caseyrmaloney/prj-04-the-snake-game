@@ -29,11 +29,16 @@ of time, which he enjoys compared to the video games he is usually used to.
 Billy, A Young Highschool Student  
  
 
+
  </div> 
-  
-Billy, age 15, is a highschool student in Philadelphia, PA. Billy spends most of his free time playing video games at home. He's super creative and loves to challenge himself with new games. He one of three kids, and loves to play games with his siblings. During his other time Billy tends to get bored easily and can't sit still for a  long period of time. He always likes to be doing something thats fun and visually pleasing. Most of the time when he's not playing video games, he outside playing with his friends and family.   
  
-Billy is pretty decent at video games, but is not expert. He really likes games that are fun but challenging. The more he plays a game the better he gets. During school Billy just wants to play a game thats simple but also where he can still listen to the teacher. Billy just doesn't want to be bored out of his mind. The Snake Game will help his accomplish this. The Snake Game can help Billy be attentive in class, but also have fun. The game will be able to challenge Billy's mind. This game is perfect for all ages and Billy will be able to play, and continue to get better.  
+Billy, age 15, is a high school student in Philadelphia, PA. Billy spends most of his time playing on his travel soccer team and hanging out with his friends. Billy is super creative and loves to challenge himself with new things.  Since Billy is one of three children, he loves to spend time with his older brothers. His brothers and friends are into video games, and Billy feels left out. With soccer practice and school, he doesn't have much time to try and play new games that are pretty challenging—That's where The Snake Game comes in. 
+
+The Snake Game is a perfect video game to get Billy started. With the different difficulty modes, Billy can continue to challenge himself harder and harder. Since Billy is just getting started into video games, he's not very good. The extra life feature in the new Snake Game is perfect for Billy. The Snake Game is simple enough to play in his free time, but it's also fun for him to keep playing. The Snake Game can help Billy gain more knowledge on videos and continue to get better at them. The extra lives and difficulty modes can help challenge his mind and help him continue to play. 
+
+
+
+
   
 
 #### _Persona 3_ (Sophia Szczepanek) 
@@ -46,9 +51,9 @@ Betty, a mom with kids
  </div> 
  
  
-Betty is a woman, 40, with kids. She is somewhat experienced with technology but does not want to use a gaming console/controllers because she believes they are too complicated. She knows her kids enjoy playing video games but the ones they play are too overstimulating with their colorful interfaces and complicated gameplay. She feels that playing a new version of a game she liked previously will connect her with technology, as well as feel connected with her kids.  
+Betty is a woman, 40, with kids. She is very experienced with technology, being a software engineer full-time. She knows her kids enjoy playing video games but she is more interested in the details behind the scenes. She feels that playing a new version of a game she has previously worked on will connect her with technology, as well as feel connected with her kids.  
   
-Betty is looking to play a retro game with a new feel. She remembers playing earlier versions of the Snake game but wants to explore a newer version. Older versions of the game had only one speed of the game with only two ways to die: either running into the wall or running into itself. This new version of the game will include an easy interface to interact with and added obstacles to make the game increasingly difficult. The controls for the game are only the arrow keys plus some keys to access the menu options so this will be perfect for her needs.  
+Betty is looking to play a retro game with a new feel. She remembers working on earlier versions of the Snake game but wants to explore a newer version. Older versions of the game had less complex code and were more easy to comprehend. This new version involves threads, which Betty finds impressive. She thinks that this is a superior way of running the game. The threads testing for collisions and the movement of the snake is smart in her opinion and she likes that it is more complex than previous Snake games that she has seen.
   
  
 
